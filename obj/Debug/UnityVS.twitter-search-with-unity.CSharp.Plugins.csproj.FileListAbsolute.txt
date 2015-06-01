@@ -1,0 +1,13 @@
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Git\twitter-search-with-unity\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Git\twitter-search-with-unity\obj\Debug\UnityVS.twitter-search-with-unity.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Git\twitter-search-with-unity\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Git\twitter-search-with-unity\obj\Debug\Assembly-CSharp-firstpass.pdb
